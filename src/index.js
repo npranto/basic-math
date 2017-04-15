@@ -1,4 +1,3 @@
-require("babel-core").transform("code", options);
 
 import addition from './operations/addition';
 import subtraction from './operations/subtraction';
